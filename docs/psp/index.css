@@ -1,0 +1,34 @@
+body {
+    background: #f0f0f0;
+    font-size: 16px;
+}
+
+.baaahs-logo {
+    height: 90px;
+}
+
+
+.footer {
+    min-height: 3rem;
+}
+
+h1.ui.horizontal.divider.header {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+.row.other.event {
+    color: #C24608;
+}
+
+.ui.crew.accordion {
+    background: #f0f0f0;
+    padding: 0.8rem;
+}
+.ui.crew.accordion .title {
+    color: #3294D1;
+}
+
+.ui.crew.accordion mb {
+    color: #3294D1;
+}

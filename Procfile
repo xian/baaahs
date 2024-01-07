@@ -1,1 +1,1 @@
-web: bundle exec ruby web.rb -p $PORT
+web: ./build/install/shoppinglist/bin/shoppinglist
